@@ -1,0 +1,5 @@
+def convertitore():
+   print("questo è il risultato in secondi:",int(m)*60+int(s))
+m = input("inserire i minuti:")
+s = input("inserire i secondi:")
+convertitore()
